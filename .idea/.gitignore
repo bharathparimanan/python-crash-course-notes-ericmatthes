@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Jupyter Notebook-specific ignores
+.ipynb_checkpoints/
+
+# Typically large output files (optional, but can keep repo clean)
+# *_files/
+# *_data/
+
+# If you have converted notebooks to Python scripts
+*.py
+
+# If you have interactive widgets state
+*_widgets.state
+
+# IntelliJ IDEA related files
+.idea/
+*.iml
+*.iws
+out/
+target/
