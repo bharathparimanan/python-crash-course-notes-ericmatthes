@@ -8,7 +8,4 @@ This repository contains my notes and code examples taken from the "Python Crash
 python-crash-course-notes/
 ├── README.md
 ├── .gitignore
-├── chapter_01_getting_started.ipynb
-├── chapter_02_variables_data_types.ipynb
-├── chapter_03_lists.ipynb
-├── chapter_04_working_with_lists.ipynb
+├── getting_started.ipynb
